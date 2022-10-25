@@ -56,8 +56,6 @@ It contains some shared business rules:
 - The App cannot sign up two users with the same email address.
 - The App must use an external dependency to persist user register.  
 
-![authentication-gif](https://github.com/eduardomoroni/react-clean-architecture/blob/master/docs/images/authentication.gif)  
-
 ---  
 
 ## Folder Structure
