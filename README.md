@@ -86,7 +86,7 @@ run `npm install` under the project you'd like to run, and then run `npm start`.
 
 ### Running on Windows
 
-There's an [issue](https://github.com/eduardomoroni/react-clean-architecture/issues/2) related to how yarn/npm symlink file dependencies on windows. Due to this issue, you should first go under the `core` module and run `npm install` and `npm run build`. This will make the `core` module ready to be installed on the other modules.
+There's an [issue](https://github.com/pinpointdev90/react-clean-architecture/issues/1) related to how yarn/npm symlink file dependencies on windows. Due to this issue, you should first go under the `core` module and run `npm install` and `npm run build`. This will make the `core` module ready to be installed on the other modules.
 
 ## References
 - [Clean Architecture: a craftsman's guide to software structure and design](https://goo.gl/2h3fsD)
